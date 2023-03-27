@@ -1,3 +1,28 @@
+# v0.0.3 (Mon Mar 27 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Merge remote-tracking branch 'upstream/main' into signdata-prefix ([@zhangyouxin](https://github.com/zhangyouxin))
+- chore: prevent canary release in PR from forked repo ([@homura](https://github.com/homura))
+- fix: fix tests ([@zhangyouxin](https://github.com/zhangyouxin))
+- chore: change to the comments ([@zhangyouxin](https://github.com/zhangyouxin))
+- fix: fix import problem after merge ([@zhangyouxin](https://github.com/zhangyouxin))
+- fix(extension-chrome): fix network radio margin left ([@IronLu233](https://github.com/IronLu233))
+- fix(extension-chrome): fix typo and whitelist UI overflow ([@IronLu233](https://github.com/IronLu233))
+- chore: build protocol ([@zhangyouxin](https://github.com/zhangyouxin))
+- chore: add protocol dep in extension ([@zhangyouxin](https://github.com/zhangyouxin))
+- refactor: use bytes.concat ([@zhangyouxin](https://github.com/zhangyouxin))
+- test: update tests for signData ([@zhangyouxin](https://github.com/zhangyouxin))
+- feat: use magic prefix when sign_data ([@zhangyouxin](https://github.com/zhangyouxin))
+
+#### Authors: 3
+
+- Iron Lu ([@IronLu233](https://github.com/IronLu233))
+- Shinya ([@zhangyouxin](https://github.com/zhangyouxin))
+- Yonghui Lin ([@homura](https://github.com/homura))
+
+---
+
 # v0.0.3 (Thu Mar 23 2023)
 
 #### 🐛 Bug Fix
